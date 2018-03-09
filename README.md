@@ -1,4 +1,4 @@
-# Agama Mobile
+# Bitcoin Hush Mobile
 
 ## How to install
 
